@@ -1,0 +1,30 @@
+.navbar{
+    background-color: #020A53;
+    height: 100px;
+}
+.navbar-brand{
+    color: white;
+    font-size: xx-large;
+}
+.navbar-brand:hover{
+    color: white;
+}
+.nav-link{
+    color: white;
+}
+.nav-link:hover{
+color: white;
+text-decoration: underline;
+}
+/* n:hover{
+    color: bisque;
+    text-decoration: none;
+} */
+.nav-btn{
+color: #4858E8;
+border-color: #4858E8;
+border-radius: 0;
+}
+.nav-btn:hover{
+    background-color: white;
+}

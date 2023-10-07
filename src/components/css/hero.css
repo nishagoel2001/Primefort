@@ -1,0 +1,27 @@
+body{
+    background-color: #010b68;
+}
+.hero-cont{
+    background-color: #020A53;
+}
+.hero-form{
+    background-color: #E3E9FF;
+    color: #2837BF;
+}
+.form-btn{
+    border-radius: 0;
+    color: #2837BF;
+    border-color: #2837BF;
+}
+.form-btn:hover{
+    color: black;
+    border-color: black;
+}
+.form-control{
+    background-color: #E3E9FF ;
+    border-radius: 0;
+    border-color: #010b68;
+    border-left: #E3E9FF;
+    border-right: #E3E9FF;
+    border-top: #E3E9FF;
+}
