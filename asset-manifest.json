@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Primefort/static/css/main.4b043a66.css",
+    "main.js": "/Primefort/static/js/main.3bc9ba35.js",
+    "static/js/787.f8cad069.chunk.js": "/Primefort/static/js/787.f8cad069.chunk.js",
+    "index.html": "/Primefort/index.html",
+    "main.4b043a66.css.map": "/Primefort/static/css/main.4b043a66.css.map",
+    "main.3bc9ba35.js.map": "/Primefort/static/js/main.3bc9ba35.js.map",
+    "787.f8cad069.chunk.js.map": "/Primefort/static/js/787.f8cad069.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b043a66.css",
+    "static/js/main.3bc9ba35.js"
+  ]
+}
